@@ -1,5 +1,3 @@
-from pyexpat import model
-from random import sample
 import pandas as pd
 import numpy as np
 from sklearn.feature_extraction.text import CountVectorizer
